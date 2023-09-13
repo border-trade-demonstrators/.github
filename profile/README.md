@@ -2,6 +2,8 @@
 
 # Border Trade Demonstrators
 
+The [dashboard](https://github.com/border-trade-demonstrators/dashboard) lists the existing Border Trade Demonstrators (BTDs), Ecosystem of Trust (EoT) instances and BTD roadmap. This repository is private/closed and you will need an invitation.
+
 ## About
 
 Border Trade Demonstrators (BTDs) will deliver on the recommendations made in the [EoT Report](https://www.gov.uk/government/publications/the-ecosystem-of-trust-evaluation-report-2023) (and any ongoing research and learning). They represent a collaborative approach with the Cabinet Office Border Innovation Team coordinating activity with Government, the Centre for Digital Trade and Innovation, industry, trade experts, standards bodies and other jurisdictions.
