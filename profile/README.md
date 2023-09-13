@@ -16,9 +16,9 @@ It is possible for a number of BTDs to be plugged into a given EoT instance and 
 
 When a BTD is evaluated successfully it is promoted to be a capability which by default can be plugged into any EoT instance or reliable system upon consideration.
 
-![Example BTD.](images/eg-btd-1.png)
+![Example BTD.](https://github.com/border-trade-demonstrators/.github/blob/main/profile/images/eg-btd-1.png)
 
-![Example BTD.](images/eg-btd-2.png)
+![Example BTD.](https://github.com/border-trade-demonstrators/.github/blob/main/profile/images/eg-btd-2.png)
 
 ## Principles
 
