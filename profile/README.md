@@ -1,4 +1,4 @@
-ℹ️ See [Home](https://github.com/ecosystem-of-trust) for background on the Ecosystem or Trust (EoT), terms of reference and other artefacts and important links. Please note this page may link to closed and private repositories which you will need to be invited into.
+ℹ️ See [EoT Home](https://github.com/ecosystem-of-trust) for background on the Ecosystem or Trust (EoT), terms of reference and other artefacts and important links. Please note this page may link to closed and private repositories which you will need to be invited into.
 
 # Border Trade Demonstrators
 
