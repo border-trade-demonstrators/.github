@@ -52,14 +52,24 @@ There are two ways to take part.
 
 Please follow the process outlined below:
 1. Send an email to border.innovation@cabinetoffice.gov.uk
-2. Prefix the subject of the email with 'btd-interest
-3. Let us know in the email if you have experience or capabilities that match our requirements from the Ecosystem of Trust (EoT) report or Centre for Digital Trade and Innovation (C4DTI) Electronic Trade Documents Act - particularly any of:
+2. Prefix the subject of the email with 'btd-interest'
+3. Let us know in the email if you have experience or capabilities that match our requirements from the Ecosystem of Trust (EoT) report or Centre for Digital Trade and Innovation (C4DTI) Electronic Trade Documents Act work - particularly any of:
    - making first class supply chain data accessible throuh a system of record
    - a desire to participate in ongoing work towards compliance with the Electronic Trade Documents Act - paperless trading
    - the ability to precisely select information suitable to be used in pre-notifications
    - the ability to send insight (e.g. opinions on goods or attestations) as signals through collaborative work with us on an emerging protocol (posting with multipart form data or as JSON)
    - a need or willingness to experiment with novel multi lateral information sharing frameworks to enable multiparty and bi-directional information sharing
+   - applying algorithmic (e.g. LLM) learning which can be used for data validation and consistency checks
 4. Your email will be processed by a cross departmental and C4DTI/ICC team
 5. If your application is successful we will ask for a Github username and you will be invited in to a repository where you can read more about existing border trade demonstrators. We will work with you to see how you can best participate and you may be invited to be part of several matching BTDs.
 
 ### Submit a proposal for a new Border Trade Demonstrator
+
+We have a number of usecases underway meeting the requirements of Government, industry and other jurisdictions. But you may have an idea, a use case or a specific application of technology, governance or process we are not currently focussing on that you think is a good candidate to be a new BTD.
+
+Please follow the process outlined below:
+1. Send an email to border.innovation@cabinetoffice.gov.uk
+2. Prefix the subject of the email with 'btd-proposal'
+3. Let us know the detail of your addition, the capabilities you can contribute or the use case you are suggesting
+4. Your email will be processed by a cross departmental and C4DTI/ICC team
+5. We will let you know if we can work with you to build out your proposal into a BTD
