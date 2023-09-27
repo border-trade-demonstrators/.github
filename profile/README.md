@@ -2,7 +2,7 @@
 
 # Border Trade Demonstrators
 
-The [dashboard](https://github.com/border-trade-demonstrators/dashboard) lists the existing Border Trade Demonstrators (BTDs), Ecosystem of Trust (EoT) instances and BTD roadmap. It is a private/closed repository and you will need an invitation.
+The [dashboard](https://github.com/border-trade-demonstrators/dashboard) lists the existing Border Trade Demonstrators (BTDs), Ecosystem of Trust (EoT) instances and BTD roadmap. It is a private/closed repository and you will need an invitation - the process to be [register your interest]() is outlined below.
 
 ## Contents
 
@@ -42,3 +42,23 @@ BTDs exist and will continue to be proposed to address a number of themes and to
 - a move towards paperless trade
 - automation of the creation of key trade documents through the application of 'recommender' systems
 - automated documentation and trade data consistency checks
+
+## How to take part
+
+There are two ways to take part.
+
+### Register your interest in one or more Border Trade Demonstrators
+
+Please follow the process outlined below:
+1. Send an email to border.innovation@cabinetoffice.gov.uk
+2. Prefix the subject of the email with 'btd-interest
+3. Let us know in the email if you have experience or capabilities that match our requirements from the Ecosystem of Trust (EoT) report or Centre for Digital Trade and Innovation (C4DTI) Electronic Trade Documents Act - particularly any of:
+   - making first class supply chain data accessible throuh a system of record
+   - a desire to participate in ongoing work towards compliance with the Electronic Trade Documents Act - paperless trading
+   - the ability to precisely select information suitable to be used in pre-notifications
+   - the ability to send insight (e.g. opinions on goods or attestations) as signals through collaborative work with us on an emerging protocol (posting with multipart form data or as JSON)
+   - a need or willingness to experiment with novel multi lateral information sharing frameworks to enable multiparty and bi-directional information sharing
+4. Your email will be processed by a cross departmental and C4DTI/ICC team
+5. If your application is successful we will ask for a Github username and you will be invited in to a repository where you can read more about existing border trade demonstrators. We will work with you to see how you can best participate and you may be invited to be part of several matching BTDs.
+
+### Submit a proposal for a new Border Trade Demonstrator
