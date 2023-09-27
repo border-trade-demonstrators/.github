@@ -2,13 +2,14 @@
 
 # Border Trade Demonstrators
 
-The [dashboard](https://github.com/border-trade-demonstrators/dashboard) lists the existing Border Trade Demonstrators (BTDs), Ecosystem of Trust (EoT) instances and BTD roadmap. It is a private/closed repository and you will need an invitation - the process to be [register your interest]() is outlined below.
+The [dashboard](https://github.com/border-trade-demonstrators/dashboard) lists the existing Border Trade Demonstrators (BTDs), Ecosystem of Trust (EoT) instances and BTD roadmap. It is a private/closed repository and you will need an invitation - the process to [register your interest](https://github.com/border-trade-demonstrators#register-your-interest-in-one-or-more-border-trade-demonstrators) is outlined below.
 
 ## Contents
 
 - [About](https://github.com/border-trade-demonstrators#about)
 - [Principles](https://github.com/border-trade-demonstrators#principles)
 - [BTD themes and topics](https://github.com/border-trade-demonstrators#themes-and-topics-for-btds)
+- [How to take part](https://github.com/border-trade-demonstrators#how-to-take-part)
 
 ## About
 
