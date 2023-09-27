@@ -25,6 +25,8 @@ It is possible for a number of BTDs to be plugged into a given EoT instance and 
 
 When a BTD is evaluated successfully it is promoted to be a capability which by default can be plugged into any EoT instance or reliable system upon consideration.
 
+We recognise that not every BTD can be open with a large number of participants invited into a specific Github repository. We need to preserve commercially sensitive details in some cases. BTDs can be as open or closed as they need to be - by default where possible we err on the side of open. We will work with you to get the balance right.
+
 ## Principles
 
 1. Real data will be made operationally usable wherever possible and sensible
