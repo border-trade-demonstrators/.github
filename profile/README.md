@@ -63,7 +63,7 @@ Please follow the process outlined below:
    - a need or willingness to experiment with novel multi lateral information sharing frameworks to enable multiparty and bi-directional information sharing
    - applying algorithmic (e.g. LLM) learning which can be used for data validation and consistency checks
 4. Your email will be processed by a cross departmental and C4DTI/ICC team
-5. If your application is successful we will ask for a Github username and you will be invited in to a repository where you can read more about existing border trade demonstrators. We will work with you to see how you can best participate and you may be invited to be part of several matching BTDs.
+5. If your application is successful we will ask for a Github username and you will be invited in to a BTDs dashboard repository where you can read more about existing border trade demonstrators. You will be able to submit a ticket in Github which lets you fill out a simple template expressing your interest in specific a specific BTD. We will work with you to see how you can best participate and you may be invited to be part of several matching BTDs.
 
 ### Submit a proposal for a new Border Trade Demonstrator
 
