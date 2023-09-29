@@ -50,6 +50,8 @@ BTDs exist and will continue to be proposed to address a number of themes and to
 
 There are two ways to take part.
 
+ℹ️ As in the first stage of the EoT it would be preferred if you are a consortium that a consortium lead coordinate communications for example when emailing the Border Innovation mailbox - thanks!
+
 ### Register your interest in one or more Border Trade Demonstrators
 
 Please follow the process outlined below:
